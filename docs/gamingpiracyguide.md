@@ -795,6 +795,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+*  [Mario HTMl5](https://crazygames.cc/mario-html5/play/) - Mario HTML5 online
 
 ***
 
